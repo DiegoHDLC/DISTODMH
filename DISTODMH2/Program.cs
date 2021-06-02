@@ -58,15 +58,6 @@ namespace DISTODMH2 {
             {
                  
             };
-            
-            
-            StreamingRecognizeResponse
-
-
-            
-
-            
-
 
 
 
